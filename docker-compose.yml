@@ -1,0 +1,12 @@
+services:
+  betahin-app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: fawwaz/betahin:v1-UTS
+    container_name: betahin-frontend
+    restart: always
+    ports:
+      - "8080:80"
+    environment:
+      - NODE_ENV=production

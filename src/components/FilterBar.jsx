@@ -60,7 +60,7 @@ export const FilterBar = ({
             id="search-keyword"
             type="text"
             className="filter-input-text"
-            placeholder="Contoh: Pogung, UGM, AC..."
+            placeholder="Contoh: Darussalam, Rukoh, USK..."
             value={filters.keyword}
             onChange={(e) => onKeywordChange(e.target.value)}
           />

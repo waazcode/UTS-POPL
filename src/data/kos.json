@@ -1,344 +1,13 @@
 [
   {
     "id": "kos-01",
-    "nama": "Kost Pondok Graha Asri",
+    "nama": "Kost Pondok Bungong Jeumpa Putri",
     "tipe": "Putri",
-    "harga": 1250000,
-    "jarak": 0.5,
-    "alamat": "Jl. Kaliurang KM 4.5, Pogung Dalangan No. 12, Sleman",
-    "kampus": "Universitas Gadjah Mada (UGM)",
-    "deskripsi": "Kost putri eksklusif yang nyaman, bersih, dan berlokasi strategis hanya 5 menit jalan kaki ke gerbang utama kampus. Lingkungan tenang sangat kondusif untuk belajar, dilengkapi sistem keamanan CCTV dan akses gerbang 24 jam.",
-    "fasilitas": [
-      "AC",
-      "WiFi",
-      "Kamar Mandi Dalam",
-      "Kasur",
-      "Lemari",
-      "Meja Belajar",
-      "Dapur Bersama",
-      "Parkir Motor",
-      "Keamanan 24 Jam"
-    ],
-    "aturan": [
-      "Khusus Mahasiswi / Karyawati",
-      "Dilarang merokok di area kamar",
-      "Tamu lawan jenis dilarang masuk kamar",
-      "Akses gerbang 24 jam dengan kunci mandiri",
-      "Maksimal 1 orang per kamar"
-    ],
-    "foto": [
-      "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1595526114035-0d45ed16cfbf?auto=format&fit=crop&w=800&q=80"
-    ],
-    "whatsapp": "6281234567801",
-    "namaPemilik": "Ibu Hj. Retno",
-    "rating": 4.9,
-    "terpopuler": true
-  },
-  {
-    "id": "kos-02",
-    "nama": "D'Residence Smart Kost",
-    "tipe": "Campur",
-    "harga": 2100000,
-    "jarak": 0.8,
-    "alamat": "Jl. Sukun No. 45, Condongcatur, Depok, Sleman",
-    "kampus": "UPN & AMIKOM",
-    "deskripsi": "Kost modern berkonsep co-living kekinian. Kamar luas dengan perabotan serba baru, smart lock, water heater, dan internet fiber berkecepatan 100 Mbps. Sangat cocok bagi mahasiswa prodi IT dan pekerja remote.",
-    "fasilitas": [
-      "AC",
-      "WiFi",
-      "Kamar Mandi Dalam",
-      "Water Heater",
-      "Kasur",
-      "Lemari",
-      "Meja Belajar",
-      "Parkir Motor",
-      "Parkir Mobil",
-      "Dapur Bersama",
-      "Akses 24 Jam",
-      "Keamanan 24 Jam"
-    ],
-    "aturan": [
-      "Pria dan Wanita (Gedung terpisah lantai)",
-      "Bebas jam malam (Smart Lock)",
-      "Tamu hanya diperbolehkan di area lobby",
-      "Tidak diperkenankan membawa hewan peliharaan",
-      "Wajib menjaga kebersihan area bersama"
-    ],
-    "foto": [
-      "https://images.unsplash.com/photo-1598928506311-c55ded91a20c?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&w=800&q=80"
-    ],
-    "whatsapp": "6281298765432",
-    "namaPemilik": "Bapak Hendra Setiawan",
-    "rating": 4.8,
-    "terpopuler": true
-  },
-  {
-    "id": "kos-03",
-    "nama": "Kost Barokah Jaya Putra",
-    "tipe": "Putra",
     "harga": 750000,
-    "jarak": 1.2,
-    "alamat": "Gang Megatruh No. 8, Karangasem, Caturtunggal, Sleman",
-    "kampus": "Universitas Gadjah Mada (UGM)",
-    "deskripsi": "Kost putra ekonomis dengan sirkulasi udara alami yang segar. Area parkir motor luas berpagar aman, lingkungan akrab antar penghuni, dan dekat warteg serta minimarket 24 jam.",
-    "fasilitas": [
-      "WiFi",
-      "Kasur",
-      "Lemari",
-      "Meja Belajar",
-      "Parkir Motor",
-      "Dapur Bersama",
-      "Akses 24 Jam"
-    ],
-    "aturan": [
-      "Khusus Mahasiswa Putra",
-      "Bebas jam malam",
-      "Dilarang minum minuman keras dan narkoba",
-      "Iuran sampah sudah termasuk dalam sewa"
-    ],
-    "foto": [
-      "https://images.unsplash.com/photo-1540518614846-7ede433c4ef4?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1507089947368-19c1da9775ae?auto=format&fit=crop&w=800&q=80"
-    ],
-    "whatsapp": "6285712344567",
-    "namaPemilik": "Pak Bambang",
-    "rating": 4.5,
-    "terpopuler": false
-  },
-  {
-    "id": "kos-04",
-    "nama": "Kost Griya Cantika Melati",
-    "tipe": "Putri",
-    "harga": 1600000,
     "jarak": 0.4,
-    "alamat": "Jl. Colombo No. 18, Samirono, Depok, Sleman",
-    "kampus": "UNY & UGM",
-    "deskripsi": "Kost putri modern tepat di depan gerbang UNY. Kamar didesain aesthetic dengan pencahayaan alami, kamar mandi dalam bersih, water heater, dan penjaga kost standby 24 jam.",
-    "fasilitas": [
-      "AC",
-      "WiFi",
-      "Kamar Mandi Dalam",
-      "Water Heater",
-      "Kasur",
-      "Lemari",
-      "Meja Belajar",
-      "Dapur Bersama",
-      "Parkir Motor",
-      "Keamanan 24 Jam"
-    ],
-    "aturan": [
-      "Khusus Mahasiswi",
-      "Gerbang ditutup pukul 23:00 WIB (ada penjaga jika lembur)",
-      "Tamu pria hanya boleh di ruang tamu depan",
-      "Menjaga ketenangan di atas jam 22.00 WIB"
-    ],
-    "foto": [
-      "https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&fit=crop&w=800&q=80"
-    ],
-    "whatsapp": "6287890123456",
-    "namaPemilik": "Ibu Sri Rahayu",
-    "rating": 4.9,
-    "terpopuler": true
-  },
-  {
-    "id": "kos-05",
-    "nama": "Kost Garuda Executive Living",
-    "tipe": "Campur",
-    "harga": 2500000,
-    "jarak": 1.5,
-    "alamat": "Jl. Garuda No. 7, Gejayan, Condongcatur, Sleman",
-    "kampus": "Sanata Dharma & Atma Jaya",
-    "deskripsi": "Kost eksklusif bintang 3 dengan fasilitas setara hotel. Parkir mobil luas dengan kanopi, kamar dibersihkan mingguan, gym mini bersama, serta rooftop lounge untuk santai sore.",
-    "fasilitas": [
-      "AC",
-      "WiFi",
-      "Kamar Mandi Dalam",
-      "Water Heater",
-      "Kasur",
-      "Lemari",
-      "Meja Belajar",
-      "Parkir Motor",
-      "Parkir Mobil",
-      "Dapur Bersama",
-      "Akses 24 Jam",
-      "Keamanan 24 Jam"
-    ],
-    "aturan": [
-      "Pria dan Wanita",
-      "Bebas jam malam dengan kartu akses",
-      "Dilarang membawa hewan peliharaan",
-      "Maksimal 2 orang per kamar (biaya tambahan berlaku)"
-    ],
-    "foto": [
-      "https://images.unsplash.com/photo-1560185127-6ed189bf02f4?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1617806118233-18e1de247200?auto=format&fit=crop&w=800&q=80"
-    ],
-    "whatsapp": "6281322334455",
-    "namaPemilik": "Ibu Christine",
-    "rating": 4.9,
-    "terpopuler": true
-  },
-  {
-    "id": "kos-06",
-    "nama": "Kost Wisma Mentari Sejahtera",
-    "tipe": "Putra",
-    "harga": 950000,
-    "jarak": 0.9,
-    "alamat": "Jl. Selokan Mataram No. 23, Pogung Baru, Sleman",
-    "kampus": "Universitas Gadjah Mada (UGM)",
-    "deskripsi": "Kost putra asri dan adem, dekat dengan warung makan legendaris dan fotokopian. Suasana kekeluargaan antar penghuni sangat erat, aman, dan nyaman untuk belajar.",
-    "fasilitas": [
-      "WiFi",
-      "Kasur",
-      "Lemari",
-      "Meja Belajar",
-      "Kamar Mandi Dalam",
-      "Parkir Motor",
-      "Dapur Bersama",
-      "Akses 24 Jam"
-    ],
-    "aturan": [
-      "Khusus Mahasiswa Putra",
-      "Bebas jam malam",
-      "Menjaga ketertiban dan kebersihan kamar mandi",
-      "Dilarang membawa tamu wanita ke dalam kamar"
-    ],
-    "foto": [
-      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1502005229762-ee1b2b8ab98f?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1567496898669-ee935f5f647a?auto=format&fit=crop&w=800&q=80"
-    ],
-    "whatsapp": "6281804123987",
-    "namaPemilik": "Bapak Suryono",
-    "rating": 4.6,
-    "terpopuler": false
-  },
-  {
-    "id": "kos-07",
-    "nama": "Kost Permata Hijau Green Living",
-    "tipe": "Putri",
-    "harga": 1850000,
-    "jarak": 0.7,
-    "alamat": "Jl. Monjali No. 102, Karangjati, Sinduadi, Mlati",
-    "kampus": "Universitas Gadjah Mada (UGM)",
-    "deskripsi": "Kost putri bernuansa taman tropis asri. Ventilasi silang membuat kamar selalu sejuk. Dilengkapi dispenser air minum gratis, kulkas bersama, dan rooftop jemuran luas.",
-    "fasilitas": [
-      "AC",
-      "WiFi",
-      "Kamar Mandi Dalam",
-      "Water Heater",
-      "Kasur",
-      "Lemari",
-      "Meja Belajar",
-      "Parkir Motor",
-      "Parkir Mobil",
-      "Dapur Bersama",
-      "Keamanan 24 Jam"
-    ],
-    "aturan": [
-      "Khusus Mahasiswi / Karyawati",
-      "Gerbang ditutup pukul 23:30 WIB",
-      "Dilarang membawa hewan peliharaan",
-      "Tamu menginap wajib lapor pemilik"
-    ],
-    "foto": [
-      "https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1554995207-c18c203602cb?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1493809842364-78817add7ffb?auto=format&fit=crop&w=800&q=80"
-    ],
-    "whatsapp": "6281123456789",
-    "namaPemilik": "Ibu Ratna Dewi",
-    "rating": 4.8,
-    "terpopuler": false
-  },
-  {
-    "id": "kos-08",
-    "nama": "Kost Anugerah Budget Mahasiswa",
-    "tipe": "Putra",
-    "harga": 650000,
-    "jarak": 2.1,
-    "alamat": "Jl. Kaliurang KM 7.5, Kayen, Condongcatur, Sleman",
-    "kampus": "UGM & UII",
-    "deskripsi": "Kost putra harga paling ramah di kantong mahasiswa. Sudah include listrik standar dan air, lingkungan aman dan tidak bising dari jalan raya utama.",
-    "fasilitas": [
-      "WiFi",
-      "Kasur",
-      "Lemari",
-      "Parkir Motor",
-      "Akses 24 Jam"
-    ],
-    "aturan": [
-      "Khusus Mahasiswa Putra",
-      "Bebas jam malam",
-      "Hemat penggunaan listrik dan air",
-      "Dilarang membuat kegaduhan larut malam"
-    ],
-    "foto": [
-      "https://images.unsplash.com/photo-1595526114035-0d45ed16cfbf?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1507089947368-19c1da9775ae?auto=format&fit=crop&w=800&q=80"
-    ],
-    "whatsapp": "6285223344111",
-    "namaPemilik": "Pak Danu",
-    "rating": 4.4,
-    "terpopuler": false
-  },
-  {
-    "id": "kos-09",
-    "nama": "Kost Urban Loft Living",
-    "tipe": "Campur",
-    "harga": 2800000,
-    "jarak": 1.1,
-    "alamat": "Jl. Affandi No. 88, Santren, Caturtunggal, Depok",
-    "kampus": "UNY, UGM & Sanata Dharma",
-    "deskripsi": "Kost industrial modern dengan mezzanine dan balkon pribadi. Dilengkapi smart TV di tiap kamar, coworking space bersama, dan fasilitas binatu/laundry kiloan di lokasi.",
-    "fasilitas": [
-      "AC",
-      "WiFi",
-      "Kamar Mandi Dalam",
-      "Water Heater",
-      "Kasur",
-      "Lemari",
-      "Meja Belajar",
-      "Parkir Motor",
-      "Parkir Mobil",
-      "Dapur Bersama",
-      "Akses 24 Jam",
-      "Keamanan 24 Jam"
-    ],
-    "aturan": [
-      "Pria dan Wanita (Sopan & Tertib)",
-      "Smart card access 24 jam",
-      "Dilarang merokok di dalam kamar ber-AC",
-      "Hewan peliharaan dilarang"
-    ],
-    "foto": [
-      "https://images.unsplash.com/photo-1554995207-c18c203602cb?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?auto=format&fit=crop&w=800&q=80"
-    ],
-    "whatsapp": "6281987654321",
-    "namaPemilik": "Pak Ardiansyah",
-    "rating": 5.0,
-    "terpopuler": true
-  },
-  {
-    "id": "kos-10",
-    "nama": "Kost Jasmine Putri Syariah",
-    "tipe": "Putri",
-    "harga": 1100000,
-    "jarak": 0.6,
-    "alamat": "Jl. Agro No. 5, Kocoran, Caturtunggal, Depok, Sleman",
-    "kampus": "Universitas Gadjah Mada (UGM)",
-    "deskripsi": "Kost putri syariah yang adem dan sangat aman. Hanya berjarak 300 meter dari Fakultas Pertanian & Kehutanan UGM. Memiliki mushola bersama yang bersih dan dapur terawat.",
+    "alamat": "Jl. Inong Balee No. 14, Kopelma Darussalam, Kec. Syiah Kuala, Banda Aceh",
+    "kampus": "Universitas Syiah Kuala (USK)",
+    "deskripsi": "Kost putri nyaman dan tenang di Kopelma Darussalam. Hanya 3 menit jalan kaki ke Fakultas Kedokteran dan FKIP USK. Dilengkapi dapur bersama, air bersih PDAM lancar, dan lingkungan islami yang asri serta kondusif untuk belajar.",
     "fasilitas": [
       "WiFi",
       "Kamar Mandi Dalam",
@@ -351,18 +20,337 @@
     ],
     "aturan": [
       "Khusus Mahasiswi Muslimah",
+      "Gerbang ditutup pukul 22:30 WIB",
+      "Berbusana muslimah sopan di area bersama",
+      "Tamu pria dilarang masuk kamar (hanya di ruang tamu luar)",
+      "Maksimal 1 orang per kamar"
+    ],
+    "foto": [
+      "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1595526114035-0d45ed16cfbf?auto=format&fit=crop&w=800&q=80"
+    ],
+    "whatsapp": "6281269012345",
+    "namaPemilik": "Ibu Hj. Cut Nurul",
+    "rating": 4.9,
+    "terpopuler": true
+  },
+  {
+    "id": "kos-02",
+    "nama": "Wisma Rencong Meutuah Putra",
+    "tipe": "Putra",
+    "harga": 650000,
+    "jarak": 0.7,
+    "alamat": "Jl. Teuku Nyak Arief, Lorong Utama No. 8, Rukoh, Kec. Syiah Kuala, Banda Aceh",
+    "kampus": "Universitas Syiah Kuala (USK) & UIN Ar-Raniry",
+    "deskripsi": "Kost putra strategis di pusat kawasan mahasiswa Rukoh. Sangat dekat dengan gerbang utama USK dan deretan warkop legendaris tempat nugas. Bebas banjir, parkir motor luas berpagar, dan WiFi fiber kencang.",
+    "fasilitas": [
+      "WiFi",
+      "Kasur",
+      "Lemari",
+      "Meja Belajar",
+      "Parkir Motor",
+      "Dapur Bersama",
+      "Akses 24 Jam"
+    ],
+    "aturan": [
+      "Khusus Mahasiswa Putra",
+      "Wajib menjaga ketertiban dan kebersihan bersama",
+      "Dilarang membawa narkoba dan minuman keras",
+      "Iuran listrik standar sudah termasuk sewa"
+    ],
+    "foto": [
+      "https://images.unsplash.com/photo-1540518614846-7ede433c4ef4?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1507089947368-19c1da9775ae?auto=format&fit=crop&w=800&q=80"
+    ],
+    "whatsapp": "6285260112233",
+    "namaPemilik": "Teuku Mirza, S.T.",
+    "rating": 4.8,
+    "terpopuler": true
+  },
+  {
+    "id": "kos-03",
+    "nama": "D'Darussalam Syariah Residence",
+    "tipe": "Putri",
+    "harga": 1400000,
+    "jarak": 0.5,
+    "alamat": "Jl. Lingkar Kampus No. 22, Kopelma Darussalam, Kec. Syiah Kuala, Banda Aceh",
+    "kampus": "UIN Ar-Raniry & USK",
+    "deskripsi": "Kost putri modern eksklusif dengan fasilitas lengkap berstandar tinggi. Dilengkapi pendingin AC, water heater, smart lock, dan CCTV. Lokasi tepat di depan gerbang Fakultas Tarbiyah UIN Ar-Raniry.",
+    "fasilitas": [
+      "AC",
+      "WiFi",
+      "Kamar Mandi Dalam",
+      "Water Heater",
+      "Kasur",
+      "Lemari",
+      "Meja Belajar",
+      "Dapur Bersama",
+      "Parkir Motor",
+      "Keamanan 24 Jam"
+    ],
+    "aturan": [
+      "Khusus Mahasiswi / Dosen Muda",
+      "Gerbang ditutup pukul 23:00 WIB",
+      "Tamu laki-laki hanya diperkenankan di ruang tamu lobby",
+      "Dilarang membawa hewan peliharaan"
+    ],
+    "foto": [
+      "https://images.unsplash.com/photo-1598928506311-c55ded91a20c?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&w=800&q=80"
+    ],
+    "whatsapp": "6281360554433",
+    "namaPemilik": "Ibu Hj. Maryam",
+    "rating": 4.9,
+    "terpopuler": true
+  },
+  {
+    "id": "kos-04",
+    "nama": "Kost Balee Baro Jaya Putra",
+    "tipe": "Putra",
+    "harga": 550000,
+    "jarak": 1.1,
+    "alamat": "Jl. Blang Krueng No. 15, Rukoh, Kec. Syiah Kuala, Banda Aceh",
+    "kampus": "Universitas Syiah Kuala (USK)",
+    "deskripsi": "Kost putra paling ramah di kantong mahasiswa dengan sirkulasi udara alami yang segar. Dekat dengan warung nasi gurih dan fotokopi Rukoh. Suasana kekeluargaan antar mahasiswa USK sangat guyub.",
+    "fasilitas": [
+      "WiFi",
+      "Kasur",
+      "Lemari",
+      "Parkir Motor",
+      "Dapur Bersama",
+      "Akses 24 Jam"
+    ],
+    "aturan": [
+      "Khusus Mahasiswa Putra",
+      "Bebas jam malam (kunci gerbang mandiri)",
+      "Menjaga ketenangan saat jam belajar malam",
+      "Dilarang merokok di area bersama"
+    ],
+    "foto": [
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1502005229762-ee1b2b8ab98f?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1567496898669-ee935f5f647a?auto=format&fit=crop&w=800&q=80"
+    ],
+    "whatsapp": "6285277889900",
+    "namaPemilik": "Pak Syukri",
+    "rating": 4.5,
+    "terpopuler": false
+  },
+  {
+    "id": "kos-05",
+    "nama": "Kost Lamgugob Asri Putri",
+    "tipe": "Putri",
+    "harga": 950000,
+    "jarak": 1.8,
+    "alamat": "Jl. T. Hasan Dek No. 34, Lamgugob, Kec. Syiah Kuala, Banda Aceh",
+    "kampus": "Universitas Syiah Kuala (USK)",
+    "deskripsi": "Kost putri berhalaman luas dan asri di kawasan Lamgugob. Dekat dengan Jembatan Lamnyong dan minimarket. Kamar mandi dalam bersih dengan ventilasi udara segar, dispenser air minum gratis.",
+    "fasilitas": [
+      "WiFi",
+      "Kamar Mandi Dalam",
+      "Kasur",
+      "Lemari",
+      "Meja Belajar",
+      "Dapur Bersama",
+      "Parkir Motor",
+      "Keamanan 24 Jam"
+    ],
+    "aturan": [
+      "Khusus Mahasiswi / Karyawati",
+      "Gerbang ditutup pukul 22:30 WIB",
+      "Tamu pria hanya di teras luar",
+      "Menjaga kebersihan dapur dan tempat jemuran"
+    ],
+    "foto": [
+      "https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&fit=crop&w=800&q=80"
+    ],
+    "whatsapp": "6281269334455",
+    "namaPemilik": "Kak Cut Rahmawati",
+    "rating": 4.7,
+    "terpopuler": false
+  },
+  {
+    "id": "kos-06",
+    "nama": "Griya Meurandeh Executive Darussalam",
+    "tipe": "Putri",
+    "harga": 1650000,
+    "jarak": 0.6,
+    "alamat": "Jl. Putroe Phang No. 5, Kopelma Darussalam, Syiah Kuala, Banda Aceh",
+    "kampus": "Universitas Syiah Kuala (USK)",
+    "deskripsi": "Kost putri berstandar eksekutif di Darussalam. Dilengkapi AC hemat energi, kasur spring bed empuk, smart TV, water heater, dan parkir mobil terlindung kanopi. Dekat Fakultas Teknik dan Ekonomi USK.",
+    "fasilitas": [
+      "AC",
+      "WiFi",
+      "Kamar Mandi Dalam",
+      "Water Heater",
+      "Kasur",
+      "Lemari",
+      "Meja Belajar",
+      "Parkir Motor",
+      "Parkir Mobil",
+      "Dapur Bersama",
+      "Keamanan 24 Jam"
+    ],
+    "aturan": [
+      "Khusus Mahasiswi",
+      "Akses gerbang 24 jam dengan kartu identitas mandiri",
+      "Tamu lawan jenis dilarang masuk area dalam",
+      "Dilarang membawa hewan peliharaan"
+    ],
+    "foto": [
+      "https://images.unsplash.com/photo-1560185127-6ed189bf02f4?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1617806118233-18e1de247200?auto=format&fit=crop&w=800&q=80"
+    ],
+    "whatsapp": "628116801234",
+    "namaPemilik": "Ibu dr. Cut Safira",
+    "rating": 5.0,
+    "terpopuler": true
+  },
+  {
+    "id": "kos-07",
+    "nama": "Kost Batoh Mandiri Mahasiswa",
+    "tipe": "Putra",
+    "harga": 600000,
+    "jarak": 0.5,
+    "alamat": "Jl. Mr. Teuku Muhammad Hasan No. 88, Batoh, Lueng Bata, Banda Aceh",
+    "kampus": "Universitas Muhammadiyah Aceh (UNMUHA)",
+    "deskripsi": "Kost putra tepat di samping kampus UNMUHA dan dekat Terminal Terpadu Batoh. Lingkungan ramai, mudah mencari makan murah, dan akses transportasi lancar menuju pusat kota Banda Aceh.",
+    "fasilitas": [
+      "WiFi",
+      "Kasur",
+      "Lemari",
+      "Meja Belajar",
+      "Parkir Motor",
+      "Dapur Bersama",
+      "Akses 24 Jam"
+    ],
+    "aturan": [
+      "Khusus Mahasiswa Putra",
+      "Bebas jam malam",
+      "Wajib mematikan lampu dan kipas jika bepergian",
+      "Dilarang membuat keributan larut malam"
+    ],
+    "foto": [
+      "https://images.unsplash.com/photo-1595526114035-0d45ed16cfbf?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1507089947368-19c1da9775ae?auto=format&fit=crop&w=800&q=80"
+    ],
+    "whatsapp": "6285370221144",
+    "namaPemilik": "Bapak Azhari",
+    "rating": 4.6,
+    "terpopuler": false
+  },
+  {
+    "id": "kos-08",
+    "nama": "Kost Jeulingke Medika Residence",
+    "tipe": "Putri",
+    "harga": 1300000,
+    "jarak": 2.1,
+    "alamat": "Jl. Rawa Sakti No. 17, Jeulingke, Syiah Kuala, Banda Aceh",
+    "kampus": "USK & RSUD Zainoel Abidin",
+    "deskripsi": "Kost putri ber-AC favorit mahasiswi Kedokteran dan Keperawatan USK. Sangat dekat dengan RSUD dr. Zainoel Abidin (RSUDZA) dan Kantor Gubernur Aceh. Tenang, bersih, dan sangat aman.",
+    "fasilitas": [
+      "AC",
+      "WiFi",
+      "Kamar Mandi Dalam",
+      "Water Heater",
+      "Kasur",
+      "Lemari",
+      "Meja Belajar",
+      "Parkir Motor",
+      "Dapur Bersama",
+      "Keamanan 24 Jam"
+    ],
+    "aturan": [
+      "Khusus Mahasiswi / Tenaga Medis",
+      "Gerbang dilengkapi kunci elektronik mandiri",
+      "Tamu hanya diperkenankan di ruang tamu depan",
+      "Dilarang membawa rokok dan vape"
+    ],
+    "foto": [
+      "https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1554995207-c18c203602cb?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1493809842364-78817add7ffb?auto=format&fit=crop&w=800&q=80"
+    ],
+    "whatsapp": "6281375990011",
+    "namaPemilik": "Ibu Hj. Faridah",
+    "rating": 4.8,
+    "terpopuler": true
+  },
+  {
+    "id": "kos-09",
+    "nama": "Kost Ulee Kareng Smart Putra",
+    "tipe": "Putra",
+    "harga": 850000,
+    "jarak": 2.4,
+    "alamat": "Jl. Kebun Raja No. 40, Ie Masen Kaye Adang, Ulee Kareng, Banda Aceh",
+    "kampus": "Universitas Syiah Kuala (USK)",
+    "deskripsi": "Kost putra modern dengan kamar mandi dalam. Dekat dengan Simpang Tujuh Ulee Kareng dan warkop-warkop khas Aceh. Akses jalan aspal lebar, lingkungan bersahabat, dan WiFi 100 Mbps.",
+    "fasilitas": [
+      "WiFi",
+      "Kamar Mandi Dalam",
+      "Kasur",
+      "Lemari",
+      "Meja Belajar",
+      "Parkir Motor",
+      "Parkir Mobil",
+      "Dapur Bersama",
+      "Akses 24 Jam"
+    ],
+    "aturan": [
+      "Khusus Mahasiswa Putra",
+      "Bebas jam malam",
+      "Menjaga kebersihan kamar mandi dan tempat parkir",
+      "Dilarang minum minuman beralkohol"
+    ],
+    "foto": [
+      "https://images.unsplash.com/photo-1554995207-c18c203602cb?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?auto=format&fit=crop&w=800&q=80"
+    ],
+    "whatsapp": "6285260887766",
+    "namaPemilik": "Bang Teuku Reza",
+    "rating": 4.7,
+    "terpopuler": false
+  },
+  {
+    "id": "kos-10",
+    "nama": "Kost Limpok Damai Mahasiswi",
+    "tipe": "Putri",
+    "harga": 700000,
+    "jarak": 0.9,
+    "alamat": "Jl. Krueng Cut - Limpok No. 12, Darussalam, Syiah Kuala, Banda Aceh",
+    "kampus": "UIN Ar-Raniry & USK",
+    "deskripsi": "Kost mahasiswi dekat gerbang timur UIN Ar-Raniry dan Fakultas Teknik USK. Suasana sejuk di tepi perkampungan Limpok yang damai, asri, dengan warga yang sangat ramah terhadap mahasiswa rantau.",
+    "fasilitas": [
+      "WiFi",
+      "Kasur",
+      "Lemari",
+      "Meja Belajar",
+      "Dapur Bersama",
+      "Parkir Motor",
+      "Keamanan 24 Jam"
+    ],
+    "aturan": [
+      "Khusus Mahasiswi Muslimah",
       "Gerbang ditutup pukul 22:00 WIB",
       "Tamu laki-laki hanya di teras luar",
-      "Menjaga adab kesopanan dan ukhuwah"
+      "Menjaga tata krama dan adab islami"
     ],
     "foto": [
       "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&fit=crop&w=800&q=80",
       "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1522770389332-9a3d4d39c08a?auto=format&fit=crop&w=800&q=80"
     ],
-    "whatsapp": "6282133445566",
-    "namaPemilik": "Umi Hanifah",
-    "rating": 4.7,
+    "whatsapp": "6282165443322",
+    "namaPemilik": "Ibu Hj. Salmiah",
+    "rating": 4.6,
     "terpopuler": false
   }
 ]

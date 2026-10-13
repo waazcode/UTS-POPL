@@ -43,7 +43,7 @@ Aplikasi **Betah.in** dibangun untuk:
 ## 🎯 Target Pengguna & Ruang Lingkup
 
 - **Target Pengguna:** Mahasiswa dan mahasiswi perguruan tinggi yang mencari hunian dekat kampus.
-- **Cakupan Wilayah Data:** Sekitar kampus terkemuka (UGM, UNY, UPN, Sanata Dharma, dll).
+- **Cakupan Wilayah Data:** Kota **Banda Aceh** (fokus pada kawasan sentra mahasiswa sekitar kampus **Universitas Syiah Kuala (USK)**, **UIN Ar-Raniry**, dan **UNMUHA** seperti Kopelma Darussalam, Rukoh, Lamgugob, Batoh, Jeulingke, dan Ulee Kareng).
 - **Fokus Utama:** **Front-End Development** (seluruh filter, sorting, komparasi, dan persistensi favorit berjalan di browser menggunakan Context API dan localStorage). Backend bersifat opsional dan pada tahap UTS ini data dibaca dari static JSON dataset terstruktur.
 
 ---

@@ -43,15 +43,15 @@ export const HomePage = () => {
         <div className="hero-content">
           <div className="hero-pill-badge">
             <Sparkles size={15} />
-            <span>Platform Pencari Kos Mahasiswa #1 di Kampus</span>
+            <span>Platform Pencari Kos Mahasiswa Banda Aceh #1</span>
           </div>
           <h1 className="hero-title">
             Temukan Kos Nyaman, <br />
             <span className="hero-title-gradient">Paling Pas Buat Mahasiswa.</span>
           </h1>
           <p className="hero-subtitle">
-            Cari kos dekat kampus tanpa perantara. Bandingkan fasilitas berdampingan,
-            simpan daftar favorit, dan hubungi langsung pemilik via WhatsApp.
+            Cari kos dekat kampus USK, UIN Ar-Raniry, dan UNMUHA tanpa perantara.
+            Bandingkan fasilitas berdampingan, simpan favorit, dan hubungi langsung pemilik via WhatsApp.
           </p>
 
           {/* Quick Search Bar */}
@@ -60,7 +60,7 @@ export const HomePage = () => {
               <Search size={20} className="hero-search-icon" />
               <input
                 type="text"
-                placeholder="Cari nama kos, area kampus (UGM, UNY, UPN), atau jalan..."
+                placeholder="Cari nama kos, area (Darussalam, Rukoh, USK, UIN Ar-Raniry, Batoh)..."
                 value={quickQuery}
                 onChange={(e) => setQuickQuery(e.target.value)}
                 className="hero-search-input"
@@ -75,14 +75,17 @@ export const HomePage = () => {
           {/* Quick Filter Tags */}
           <div className="hero-quick-tags">
             <span className="quick-tags-label">Pencarian Cepat:</span>
+            <Link to="/kos?q=Darussalam" className="quick-tag-pill">
+              Darussalam
+            </Link>
+            <Link to="/kos?q=Rukoh" className="quick-tag-pill">
+              Rukoh
+            </Link>
             <Link to="/kos?tipe=Putri" className="quick-tag-pill">
               Kos Putri
             </Link>
             <Link to="/kos?tipe=Putra" className="quick-tag-pill">
               Kos Putra
-            </Link>
-            <Link to="/kos?tipe=Campur" className="quick-tag-pill">
-              Kos Campur
             </Link>
             <Link to="/kos?facility=AC" className="quick-tag-pill">
               Ber-AC
@@ -225,28 +228,28 @@ export const HomePage = () => {
         <div className="testimonials-grid">
           <div className="testimonial-card">
             <p className="testimonial-quote">
-              "Fitur Bandingin ngebantu banget pas galau milih 3 kos di Pogung.
-              Langsung keliatan mana yang AC-nya lebih murah dan lebih deket ke Fakultas Teknik."
+              "Fitur Bandingin ngebantu banget pas galau milih 3 kos di kawasan Rukoh.
+              Langsung keliatan mana yang fasilitasnya lebih lengkap dan lebih deket ke Fakultas Teknik USK."
             </p>
             <div className="testimonial-author">
               <div className="author-avatar">FR</div>
               <div>
                 <h4 className="author-name">Fajar Ramadhan</h4>
-                <p className="author-univ">Teknik Elektro UGM</p>
+                <p className="author-univ">Teknik Elektro USK</p>
               </div>
             </div>
           </div>
 
           <div className="testimonial-card">
             <p className="testimonial-quote">
-              "Nemu kos putri yang ada kamar mandi dalam dan WiFi kenceng cuma dalam 5 menit.
-              Tombol WhatsApp-nya langsung kirim nama kos, ibu kosnya langsung respons!"
+              "Nemu kos putri di Darussalam yang ada kamar mandi dalam dan WiFi kenceng cuma dalam 5 menit.
+              Tombol WhatsApp-nya langsung kirim format nama kos, pemiliknya cepat merespons!"
             </p>
             <div className="testimonial-author">
-              <div className="author-avatar">AN</div>
+              <div className="author-avatar">CN</div>
               <div>
-                <h4 className="author-name">Anisa Nurul</h4>
-                <p className="author-univ">Ilmu Komunikasi UNY</p>
+                <h4 className="author-name">Cut Nurul Anisa</h4>
+                <p className="author-univ">Pendidikan Bahasa Inggris UIN Ar-Raniry</p>
               </div>
             </div>
           </div>
@@ -254,13 +257,13 @@ export const HomePage = () => {
           <div className="testimonial-card">
             <p className="testimonial-quote">
               "Tampilannya super cepat dan bersih, filter fasilitasnya bener-bener akurat
-              karena cuma nampilin kos yang punya semua fasilitas yang dicentang."
+              karena cuma nampilin kos yang punya semua fasilitas yang dicentang di sekitar Batoh."
             </p>
             <div className="testimonial-author">
-              <div className="author-avatar">DK</div>
+              <div className="author-avatar">DP</div>
               <div>
-                <h4 className="author-name">Dimas Kurnia</h4>
-                <p className="author-univ">Informatika UPN Veteran</p>
+                <h4 className="author-name">Dimas Pratama</h4>
+                <p className="author-univ">Informatika UNMUHA</p>
               </div>
             </div>
           </div>
